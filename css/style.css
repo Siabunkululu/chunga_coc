@@ -3,7 +3,7 @@
     --primary: #FF6F0F;
     --secondary: #FFF0E6;
     --light: #F8F8F9;
-    --dark: #001D23;
+    --dark: #030023;
 }
 
 .back-to-top {
@@ -181,7 +181,7 @@
 .page-header {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(/img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(/img/Carousel-2.jpg) center center no-repeat;
     background-size: cover;
 }
 
